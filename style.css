@@ -1,0 +1,26 @@
+.header {
+    color: lightgrey;
+    margin:0 25% 0 25%;
+    width:50%;
+}
+body {
+    width: 70%;
+    margin:0 auto;
+    background-color: lightsteelblue;
+}
+h1 {
+    font-size: 32px;
+}
+h1, h2, h3, h4 {
+   font-family: sans-serif; 
+   padding-top: 1.5em;
+}
+table, td, th, tr, caption {
+    margin:0 auto;
+    border: 1px solid black;
+    padding: 5px;
+}
+img {
+    float: left;
+    margin: 5px 5px 5px 0;
+}
